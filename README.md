@@ -15,6 +15,6 @@ python main.py
 
 The script will produce two output files:
 
-data/orcl-sma.csv for the Simple Moving Averages
-data/orcl-rsi.csv for the Relative Strength Index
+`orcl-sma.csv` for the Simple Moving Averages
+`orcl-rsi.csv` for the Relative Strength Index
 
